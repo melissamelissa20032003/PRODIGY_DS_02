@@ -39,6 +39,6 @@ Embarked - Point of embarkmen
 
 **Analysis Highlights** </br>
 - Conducted data cleaning to handle missing values and duplicates.</br>
-- Explored relationships between variables such as gender, passenger class, age, fare, and survival rate.</br>
-+ Identified patterns and trends in the data, including the higher survival rate among females, the impact of passenger class on survival, and the relationship between age and survival.
+- Explored relationships between variables such as gender, passenger class, age, fare, and survival rate.
+- Identified patterns and trends in the data, including the higher survival rate among females, the impact of passenger class on survival, and the relationship between age and survival.
 
